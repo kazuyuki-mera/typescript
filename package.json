@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kazuyuki-mera/typescript/issues"
   },
-  "homepage": "https://github.com/kazuyuki-mera/typescript#readme"
+  "homepage": "https://github.com/kazuyuki-mera/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
